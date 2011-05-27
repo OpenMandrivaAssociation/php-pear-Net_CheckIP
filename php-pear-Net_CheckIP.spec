@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.2.2
-Release:	%mkrel 1
+Release:	%mkrel 2
 Summary:	Check the syntax of IPv4 adresses
 License:	PHP License
 Group:		Development/PHP
