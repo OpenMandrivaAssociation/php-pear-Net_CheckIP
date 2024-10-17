@@ -8,7 +8,7 @@ Release:	5
 Summary:	Check the syntax of IPv4 adresses
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Net_CheckIP/
+URL:		https://pear.php.net/package/Net_CheckIP/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
